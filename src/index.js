@@ -19,4 +19,5 @@ module.exports = function towelSort (matrix) {
         k++;
       }
   }
+  return array;
 }
